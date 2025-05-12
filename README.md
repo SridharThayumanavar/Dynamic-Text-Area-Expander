@@ -29,7 +29,7 @@ To expand the text area item dynamically based on the input from the users.
 
 ![](https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander/blob/main/Item%20Backend%20Screenshot.png)
 
-1.	To check background process only for one page then dynamic action to be created on that page one time only. 
-2.	To check background process for entire application then dynamic action to be created on global page.
+1.	To select the page item as "Dynamic Text Area Expanding of Item. 
+2.	To fill the respective fields for custom changes. 
 
-[Demo](https://apex.oracle.com/pls/apex/r/digital_bid_suite/bg-process/home)
+[Demo](https://apex.oracle.com/pls/apex/r/digital_bid_suite/dynamic-text-area-expand-item/home)
