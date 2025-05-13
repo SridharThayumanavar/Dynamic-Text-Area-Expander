@@ -20,10 +20,9 @@ To expand the text area item dynamically based on the input from the users.
 | 2 | Rows | To indicate the rows of the Text area. | 1,2,3 .. etc.. |
 | 3 | Columns | To indicate the columns of the Text area. | 10 |
 | 4 | Maximum Length | To indicate the maximum length of Text area field. | 10 |
-| 5 | Maximum Letters Length | To indicate the maximum letters of the Text area field and it shouldn't allow more than that. | 10 |
-| 6 | Maximum Letter Length Error Message | To raise an error when the text area field exceeds the maximum letters. | 10 |
-| 7 | Alert Title | Title of the Error alert. | For Example. Warning |
-| 8 | Alert Ok Label | Label of the alert button. | For Example. Okay! |
+| 5 | Maximum Letter Length Error Message | To raise an error when the text area field exceeds the maximum letters. | 10 |
+| 6 | Alert Title | Title of the Error alert. | For Example. Warning |
+| 7 | Alert Ok Label | Label of the alert button. | For Example. Okay! |
 
 # Item Plug - In 
 
