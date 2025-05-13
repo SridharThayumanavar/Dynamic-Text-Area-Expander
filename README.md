@@ -4,7 +4,7 @@
 
 To expand the text area item dynamically based on the input from the users. 
 
-![](https://github.com/SridharThayumanavar/Background-Process/blob/main/Background%20Process%20Notification.gif)
+![](https://github.com/SridharThayumanavar/Dynamic-Text-Area-Expander/blob/main/Dynamic%20Text%20Area%20Expand.gif)
 
 # Features
 -  It should expand the row of the text area item dynamically based on the input from the users. 
